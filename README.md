@@ -1,4 +1,4 @@
-#🦜️🔗Langchain-SearchEngine
+# 🦜️🔗Langchain-SearchEngine
 
 Langchain-SearchEngine is a Streamlit-based application that combines the power of language models with various search tools to provide an interactive chat interface with web search capabilities.
 
