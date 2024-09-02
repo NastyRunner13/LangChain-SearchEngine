@@ -2,6 +2,8 @@
 
 Langchain-SearchEngine is a Streamlit-based application that combines the power of language models with various search tools to provide an interactive chat interface with web search capabilities.
 
+Check out the app here -> https://langchain-searchengine.streamlit.app/
+
 ## Features
 
 - Chat interface powered by Groq's language models
